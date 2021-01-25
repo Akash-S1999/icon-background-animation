@@ -11,4 +11,4 @@
 
 
 # Here is howit will look 😛
-![final_site](demo.png)
+![final_site](demo-animation.png)
