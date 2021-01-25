@@ -10,5 +10,5 @@
 </p>
 
 
-# Here is howit will look 😛
+# Here is how it will look 😛
 ![final_site](demo-animation.png)
